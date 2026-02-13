@@ -1,0 +1,5 @@
+{
+  "name": "Runet Pain Research System",
+  "description": "An analytical tool for identifying user patterns and pains in the Russian market based on Yandex Wordstat, Zen, VC.ru, and forums.",
+  "requestFramePermissions": []
+}
